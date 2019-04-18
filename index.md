@@ -1,6 +1,6 @@
 ## "Mobile assistant" software support
 
-'Mobile Assistant' supports network speed test function, network security check function, device information query function, battery health index query function, which can help you better use mobile phone.
+'Mobile Assistant' supports network speed test function, network security check function, device information query function, battery health index query function,Photo management function, which can help you better use mobile phone.
 
 iOS program design & system consultation
 
